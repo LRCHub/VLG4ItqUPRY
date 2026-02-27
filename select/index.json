@@ -1,144 +1,96 @@
 {
   "version": 1,
-  "base_track": "needLe",
+  "base_track": "needLe (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
   "base_artist": "Leo/need",
-  "createdAt": "2026-02-27T12:11:04.033269Z",
+  "createdAt": "2026-02-27T12:32:00.443124Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "A Threaded Needle",
-      "artist": "Lotus Plaza",
-      "has_synced": false,
-      "path": "select/01_A_Threaded_Needle_Lotus_Plaza.txt"
+      "title": "Needle (feat. Drake)",
+      "artist": "Nicki Minaj feat. Drake",
+      "has_synced": true,
+      "path": "select/01_Needle_(feat._Drake)_Nicki_Minaj_feat._Drake.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Needle In the Hay",
-      "artist": "Nadja",
-      "has_synced": false,
-      "path": "select/02_Needle_In_the_Hay_Nadja.txt"
+      "title": "needLe (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/02_needLe_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "The Needle Has Landed",
-      "artist": "Neko Case",
+      "title": "Needle (feat. Drake)",
+      "artist": "Nicki Minaj",
       "has_synced": true,
-      "path": "select/03_The_Needle_Has_Landed_Neko_Case.lrc"
+      "path": "select/03_Needle_(feat._Drake)_Nicki_Minaj.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "The Needle And The Damage Done",
-      "artist": "Neil Young",
+      "title": "Needle (feat. Drake)",
+      "artist": "Nicki Minaj/Drake",
       "has_synced": true,
-      "path": "select/04_The_Needle_And_The_Damage_Done_Neil_Young.lrc"
+      "path": "select/04_Needle_(feat._Drake)_Nicki_Minaj_Drake.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "The Needle and the Damage Done - Live",
-      "artist": "Neil Young & Crazy Horse",
-      "has_synced": false,
-      "path": "select/05_The_Needle_and_the_Damage_Done_-_Live_Neil_Young_&_Crazy_Horse.txt"
+      "title": "Needle (feat. Drake)",
+      "artist": "Minaj, Nicki",
+      "has_synced": true,
+      "path": "select/05_Needle_(feat._Drake)_Minaj,_Nicki.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "Needle In the Camel's Eye",
-      "artist": "Brian Eno",
+      "title": "needLe (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo",
       "has_synced": true,
-      "path": "select/06_Needle_In_the_Camel's_Eye_Brian_Eno.lrc"
+      "path": "select/06_needLe_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "The Needle and the Spoon",
-      "artist": "Lynyrd Skynyrd",
-      "has_synced": true,
-      "path": "select/07_The_Needle_and_the_Spoon_Lynyrd_Skynyrd.lrc"
+      "title": "The Needle (feat. Krizz Kaliko)",
+      "artist": "Tech N9ne",
+      "has_synced": false,
+      "path": "select/07_The_Needle_(feat._Krizz_Kaliko)_Tech_N9ne.txt"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "The Needle And The Spoon",
-      "artist": "Lynyrd Skynyrd",
+      "title": "Nicki Minaj - Needle (feat. Drake) [Official Audio]",
+      "artist": "Nicki Minaj",
       "has_synced": true,
-      "path": "select/08_The_Needle_And_The_Spoon_Lynyrd_Skynyrd.lrc"
+      "path": "select/08_Nicki_Minaj_-_Needle_(feat._Drake)_[Official_Audio]_Nicki_Minaj.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "The Needle and the Spoon",
-      "artist": "Lynyrd Skynyrd",
+      "title": "DECO*27 - needLe feat. 初音ミク",
+      "artist": "DECO*27",
       "has_synced": false,
-      "path": "select/09_The_Needle_and_the_Spoon_Lynyrd_Skynyrd.txt"
+      "path": "select/09_DECO_27_-_needLe_feat._初音ミク_DECO_27.txt"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "Put the Needle On It",
-      "artist": "Dannii Minogue",
+      "title": "Needle (feat. Drake) [Audio]",
+      "artist": "Nicki Minaj",
       "has_synced": true,
-      "path": "select/10_Put_the_Needle_On_It_Dannii_Minogue.lrc"
+      "path": "select/10_Needle_(feat._Drake)_[Audio]_Nicki_Minaj.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "Put the Needle on It (Cicada vocal mix)",
-      "artist": "Dannii Minogue",
-      "has_synced": false,
-      "path": "select/11_Put_the_Needle_on_It_(Cicada_vocal_mix)_Dannii_Minogue.txt"
-    },
-    {
-      "id": "lrclib_12",
-      "source": "lrclib",
-      "title": "Put the Needle On It (Nevins club Creation edit)",
-      "artist": "Dannii Minogue",
-      "has_synced": false,
-      "path": "select/12_Put_the_Needle_On_It_(Nevins_club_Creation_edit)_Dannii_Minogue.txt"
-    },
-    {
-      "id": "lrclib_13",
-      "source": "lrclib",
-      "title": "Put the Needle on It - Tiga's Cookies Dub Edit",
-      "artist": "Dannii Minogue",
-      "has_synced": false,
-      "path": "select/13_Put_the_Needle_on_It_-_Tiga's_Cookies_Dub_Edit_Dannii_Minogue.txt"
-    },
-    {
-      "id": "lrclib_14",
-      "source": "lrclib",
-      "title": "Put the Needle on It (Tiga’s Cookies dub edit)",
-      "artist": "Dannii Minogue",
-      "has_synced": false,
-      "path": "select/14_Put_the_Needle_on_It_(Tiga’s_Cookies_dub_edit)_Dannii_Minogue.txt"
-    },
-    {
-      "id": "lrclib_15",
-      "source": "lrclib",
-      "title": "Needle & Thread",
-      "artist": "Benoît Pioulard",
-      "has_synced": false,
-      "path": "select/15_Needle_&_Thread_Benoît_Pioulard.txt"
-    },
-    {
-      "id": "lrclib_16",
-      "source": "lrclib",
-      "title": "Needle of Death",
-      "artist": "Bert Jansch",
+      "title": "Needle [feat. Drake] [Explicit]",
+      "artist": "Nicki Minaj feat. Drake",
       "has_synced": true,
-      "path": "select/16_Needle_of_Death_Bert_Jansch.lrc"
-    },
-    {
-      "id": "lrclib_17",
-      "source": "lrclib",
-      "title": "Needle and Thread",
-      "artist": "Psapp",
-      "has_synced": true,
-      "path": "select/17_Needle_and_Thread_Psapp.lrc"
+      "path": "select/11_Needle_[feat._Drake]_[Explicit]_Nicki_Minaj_feat._Drake.lrc"
     },
     {
       "id": "petitlyrics_1",
